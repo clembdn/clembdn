@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub !
 
-Etudiant en développement informatique en première année à EPITECH. Passionné par le monde de la programmation, je suis toujours à la recherche de nouvelles opportunités pour apprendre et développer mes compétences.
+Étudiant en développement informatique en première année à EPITECH. C'est sur ce profil GitHub que sont regroupés la plupart de mes projets. Je vous laisse les découvrir.
 
 ## Compétences
 
