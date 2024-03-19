@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub !
+# Bienvenue !
 
 Étudiant en développement informatique en première année à EPITECH. C'est sur ce profil GitHub que sont regroupés la plupart de mes projets. Je vous laisse les découvrir.
 
