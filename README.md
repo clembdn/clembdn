@@ -21,10 +21,14 @@
 
 ## Projets et Contributions
 
-- [Projet 1](lien_vers_le_projet) - Description du projet.
-- [Projet 2](lien_vers_le_projet) - Description du projet.
+- [Game-JAM-1](https://github.com/clembdn/Game-JAM-1) - Jeu vidéo de plateforme 2D en 3 niveaux sur Unity (Game JAM 2023)
+- [Game-JAM-2](https://github.com/clembdn/Game-JAM-2) - Jeu vidéo de platforme 2D sur le thème “combat improbable” sur Unity (Game JAM 2024)
+- [Duck Hunt](https://github.com/clembdn/Duck-Hunt) - Duck Hunt
+- [Sokoban](https://github.com/clembdn/Sokoban) - Sokoban
+- [Bataille Navale](https://github.com/clembdn/Bataille-Navale) - Bataille Navale
+- [Paint](https://github.com/clembdn/Paint) - Paint
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-boudon-98212a298/)
-- [E-mail](mailto:clement.boudon@epitech.eu)
+- [E-mail Outlook](mailto:clement.boudon@epitech.eu)
